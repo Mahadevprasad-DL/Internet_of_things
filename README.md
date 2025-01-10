@@ -68,7 +68,7 @@ The following tools and components were used in this IoT project:
 
 ### 1. Single Blink LED  
    A demonstration of an LED blinking using Raspberry Pi 3 GPIO pins. 
-   ![image7](https://github.com/user-attachments/assets/f90d0c5c-7c22-413e-81f6-1a0d33b4eb70)
+![image7](https://github.com/user-attachments/assets/95fa3e29-b0cf-4542-99bc-c0a8111e7116)
 
    
 
