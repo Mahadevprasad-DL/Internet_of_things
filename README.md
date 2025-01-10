@@ -33,22 +33,33 @@ The following tools and components were used in this IoT project:
 
 ### 1. Single Blink LED Light  
    A simple demonstration where an LED blinks at regular intervals.  
+   ![image1](https://github.com/user-attachments/assets/2fa65cb0-b2a5-4958-918c-bb4510079f8f)
+
    
 
 ### 2. Three Blink LED Light  
-   Demonstrates three LEDs blinking in a pattern.  
+   Demonstrates three LEDs blinking in a pattern. 
+![image2](https://github.com/user-attachments/assets/54b12880-b083-4eef-8a3a-29d958920c45)
+ 
 
 
-### 3. Beep Light  
-   Combines an LED with a buzzer for light and sound indication.  
+### 3. Beep Sound 
+   Combines an LED with a buzzer for light and sound indication.
+   ![image3](https://github.com/user-attachments/assets/52e4b7cc-e4ad-4cb0-a91a-7bfdf150a2f9)
+
 
 
 ### 4. Temperature Finding  
    Reads temperature data using a temperature sensor and displays it.  
+   
+![image5](https://github.com/user-attachments/assets/3164c6e4-a7c4-47de-8bb8-1d0c635abb4e)
+
   
 
 ### 5. Screen Display Using One Screen  
-   Displays information on a single screen.  
+   Displays information on a single screen.
+   ![image6](https://github.com/user-attachments/assets/673c1e9e-9487-4bfb-81e8-a7f4a3accdf6)
+
    
 
 ---
@@ -56,7 +67,9 @@ The following tools and components were used in this IoT project:
 ## Projects Using Raspberry Pi 3
 
 ### 1. Single Blink LED  
-   A demonstration of an LED blinking using Raspberry Pi 3 GPIO pins.  
+   A demonstration of an LED blinking using Raspberry Pi 3 GPIO pins. 
+   ![image7](https://github.com/user-attachments/assets/f90d0c5c-7c22-413e-81f6-1a0d33b4eb70)
+
    
 
 ---
