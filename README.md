@@ -74,5 +74,9 @@ The following tools and components were used in this IoT project:
 
 ---
 
- 
+ Copyright Notice
+© 2025 [Mahadevprasad DL]. <br> All rights reserved. Unauthorized copying of this code, via any medium, is strictly prohibited. You may not use, modify, distribute, or reproduce this code without written permission. Any violations will result in legal action.
+
+Important Note:<br>
+By using this code or repository, you agree to respect the terms of this copyright notice. Failure to comply may lead to legal consequences. If you need permission to use this code, please contact [girishdl78524@gmail.com/9591921668].
 
